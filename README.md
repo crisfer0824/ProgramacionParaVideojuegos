@@ -2,8 +2,8 @@
 
 Repositorio colaborativo del equipo.
 
-## Cristian ![Foto](Cristian/WhatsApp Image 2026-02-17 at 9.40.14 AM.jpg)
-
+## Cristian 
+![Foto](Cristian/WhatsApp Image 2026-02-17 at 9.40.14 AM.jpg)
 ![Foto](Cristian/asado.jpg)
 
 **Nombre:** Cristian Fernando Suarez Villamizar
