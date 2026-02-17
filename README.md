@@ -3,7 +3,8 @@
 Repositorio colaborativo del equipo.
 
 ## Cristian 
-![Foto](Cristian/asado.jpg)
+
+![Foto](Cristian/fotoCris.jpg)
 
 **Nombre:** Cristian Fernando Suarez Villamizar
 **Rol:** Game Tester and frontend developer  
@@ -11,3 +12,6 @@ Repositorio colaborativo del equipo.
 
 Perfil:
 Estudiante de ingenieria Multimedia, tecnico en sistemas con experiencia en manejo de paginas web y testeo de videojuegos.
+
+**My favorite food**
+![Foto](Cristian/asado.jpg)
