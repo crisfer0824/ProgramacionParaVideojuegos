@@ -1,3 +1,4 @@
+![Foto personal]((https://github.com/crisfer0824/ProgramacionParaVideojuegos/blob/Jessica/FOTO.jpeg))
 # ProgramacionParaVideojuegos
 
 **JESSICA**
