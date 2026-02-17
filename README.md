@@ -1,4 +1,4 @@
-<img src="img/foto.jpg" width="150">
+<img src="FOTO.jpeg" width="150">
 
 # ProgramacionParaVideojuegos
 
