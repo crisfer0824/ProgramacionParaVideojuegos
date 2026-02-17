@@ -2,7 +2,7 @@
 
 Repositorio colaborativo del equipo.
 
-## Cristian
+## Cristian ![Foto](Cristian/WhatsApp Image 2026-02-17 at 9.40.14 AM.jpg)
 
 ![Foto](Cristian/asado.jpg)
 
