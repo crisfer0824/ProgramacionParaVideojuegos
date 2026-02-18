@@ -1,5 +1,7 @@
 # ProgramacionParaVideojuegos
 
+![Foto Daniela](https://github.com/crisfer0824/ProgramacionParaVideojuegos/blob/daniela/ProgramacionParaVideojuegos-main/daniela/foto.jpg)
+
 ## Daniela
 
 **Rol:** Programadora  
