@@ -1,15 +1,9 @@
- daniela
 # ProgramacionParaVideojuegos
 
-## Daniela
+![Foto Daniela](https://github.com/crisfer0824/ProgramacionParaVideojuegos/blob/daniela/ProgramacionParaVideojuegos-main/daniela/foto.jpg)
 
-![Foto Daniela](daniela/foto.jpg)
+## Daniela
 
 **Rol:** Programadora  
 **Ubicación:** Colombia  
 **Perfil:** Estudiante interesada en el desarrollo de videojuegos y en aprender trabajo en equipo.
-# Programación para Videojuegos – Etapa 1
-
-Repositorio colaborativo del equipo.
- main
-
