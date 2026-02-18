@@ -1,9 +1,20 @@
+ Jessica
+<img src="FOTO.jpeg" width="150">
+
+# ProgramacionParaVideojuegos
+
+**JESSICA STEFANY GARZÓN JOVE**
+
  daniela
 # ProgramacionParaVideojuegos
 
 ## Daniela
+ 
 
 ![Foto Daniela](daniela/foto.jpg)
+
+ Jessica
+**UBICACIÓN**: Los Santos- Santander- Colombia 
 
 **Rol:** Programadora  
 **Ubicación:** Colombia  
@@ -11,5 +22,3 @@
 # Programación para Videojuegos – Etapa 1
 
 Repositorio colaborativo del equipo.
- main
-
