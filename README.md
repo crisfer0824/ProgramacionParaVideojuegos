@@ -1,4 +1,4 @@
- Jessica
+Jessica
 <img src="FOTO.jpeg" width="150">
 
 # ProgramacionParaVideojuegos
